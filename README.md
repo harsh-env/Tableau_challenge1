@@ -9,7 +9,7 @@ Use the Link below to see the Tableau Visualizations, Dashboards and Story board
 2. This file was too large for Github repo to be stored and hence using Google Drive.
 <https://drive.google.com/drive/folders/1QIT58dnyv7NRKGx5OPPMvg7t6ZANaJs7?usp=sharing>
 
-Summary of Analysis Dashboard: 
+## Summary of Analysis Dashboard: 
 ### Member vs Non-Members & Bike Type
 ![](https://github.com/harsh-env/Tableau_challenge1/blob/main/images/Dashboard_members%20vs%20non.PNG)
 ### Analyzing Top 20 Busiest Bike Stations

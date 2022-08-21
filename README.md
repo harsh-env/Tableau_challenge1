@@ -10,9 +10,14 @@ Use the Link below to see the Tableau Visualizations, Dashboards and Story board
 <https://drive.google.com/drive/folders/1QIT58dnyv7NRKGx5OPPMvg7t6ZANaJs7?usp=sharing>
 
 Summary of Analysis Dashboard: 
+### Member vs Non-Members & Bike Type
 ![](https://github.com/harsh-env/Tableau_challenge1/blob/main/images/Dashboard_members%20vs%20non.PNG)
+### Analyzing Top 20 Busiest Bike Stations
 ![](https://github.com/harsh-env/Tableau_challenge1/blob/main/images/Dash_Top%2020%20busiest%20Stations.PNG)
+### Analyzing Summer vs Winter Rides
 ![](https://github.com/harsh-env/Tableau_challenge1/blob/main/images/Dash_RIde%20summer%20vs%20winter.PNG)
+### Analyzing Bottom 20 Busient Bike Stations
 ![](https://github.com/harsh-env/Tableau_challenge1/blob/main/images/Dash_Bottom%2020%20busiest%20Stations.PNG)
+### Analyzing Usage Density on Maps
 ![](https://github.com/harsh-env/Tableau_challenge1/blob/main/images/Usage%20Density_week.PNG)
 
